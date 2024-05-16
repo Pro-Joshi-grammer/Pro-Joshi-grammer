@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pro-Joshi-grammer
-- 👀 I’m interested in How thimgs work
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in How things work and getting to destroy and rebuild them again 
+- 🌱 I’m currently learning Python,FullStackWebDevelopment,DSA
+- 💞️ I’m looking to collaborate on people who are building new projects
+- 📫 How to reach me joshisankarsh45@gmail.com
 
 <!---
 Pro-Joshi-grammer/Pro-Joshi-grammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
