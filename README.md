@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Joshi Sankarsh from India<br><br>- 🔭 I’m currently pursuing Engineering in AIML<br>- 📚 I'm currently learning DSA,ML,WEBDEV,BLOCKCHAIN<br>- ⚡ In my free time I watch anime and read books</p>
+<p align="left">I'm Joshi Sankarsh from India<br><br>- 🔭 I’m currently pursuing Engineering in AIML<br>- 📚 I'm currently learning DSA,ML,WEBDEV,BLOCKCHAIN,GENAI<br>- ⚡ In my free time I watch anime,play chess and read books</p>
 
 ###
 
