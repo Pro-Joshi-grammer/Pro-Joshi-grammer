@@ -1,74 +1,56 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Joshi Sankarsh 👋
 
-###
+**AI/Backend Engineer** — building systems that actually *do* things: agents, memory, RAG, automation.
 
-<div align="center">
-  <a href="www.linkedin.com/in/joshi-sankarsh-6a8981269" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="joshisankarsh45@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+```
+Python • FastAPI • LangChain • PostgreSQL • Docker
+Currently exploring: agentic workflows, local LLMs, persistent AI memory
+```
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pro-Joshi-grammer.Pro-Joshi-grammer&"  />
-</div>
+## What I'm Building
 
-###
+I care about backend architecture and AI systems more than frontend polish — the interesting problems for me are in how models reason, remember, and act, not just how they render.
 
-<h1 align="center">hey there 👋</h1>
+- 🧠 **AI Agents & Memory** — persistent context, retrieval, multi-step reasoning
+- 🔍 **RAG & Local LLMs** — offline-first, privacy-conscious AI pipelines
+- ⚙️ **Backend Systems** — APIs and infra that hold up in production, not just demos
 
-###
+## Selected Projects
 
-<h3 align="left">👩‍💻  About Me</h3>
+| Project | What it does |
+|---|---|
+| **[MemoryOS](#)** | Hierarchical AI memory system — embeddings, summarization, long-term context retrieval |
+| **[Sahayatha](#)** | Multilingual, voice-first government services platform with RAG + local LLMs (Telugu support) |
+| **[w-agent](#)** | WhatsApp reminder agent with document memory — Flask, PostgreSQL, S3, multimodal AI |
+| **[idea2Build](#)** | Generates system designs & Terraform infra from a product idea, via Amazon Bedrock |
+| **[Chat-with-PDF](#)** | Fully offline RAG assistant — LangChain, ChromaDB, Ollama |
 
-###
+## Stack
 
-<p align="left">I'm Joshi Sankarsh from India<br><br>- 🔭 I’m currently pursuing Engineering in AIML<br>- 📚 I'm currently learning DSA,ML,WEB-DEVELOPMENT,SOFTWARE-ENGINEERING,GENAI<br>- ⚡ In my free time I watch anime,play chess and read books</p>
+**AI/ML:** PyTorch · Hugging Face · LangChain · Ollama · RAG · Agents · VLMs  
+**Backend:** Python · FastAPI · Flask · Node.js  
+**Data:** PostgreSQL · CockroachDB · ChromaDB · DynamoDB · Redis  
+**Infra:** Docker · AWS · Azure · Terraform · Nginx · Linux  
+**Frontend (when needed):** React · Next.js · Tailwind  
 
-###
+## Track Record
 
-<h3 align="left">🛠 Language and tools</h3>
+- 🏆 Winner, Yukthi Manthan AI Hackathon (₹25K prize)
+- 🎯 National AI Olympiad 2025 — Rank 184 nationally, 11 in Telangana; 80%+ in Computer Vision, Deep Learning, Generative AI, and Agentic AI
+- 🔁 12+ hackathons, still shipping
 
-###
+## How I Work With AI Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-</div>
+I use LLMs to move faster — prototyping, debugging, exploring design options — but the architecture, trade-offs, and decisions are mine. Understanding the system beats generating around it.
 
-###
+<p align="center">
+  <img src="./claudecode.svg" alt="Claude Code usage snapshot: 226,963,703 total tokens, 22 sessions, $63.99 estimated cost over the last 12 months" width="100%">
+</p>
 
-<h3 align="left">🔥   My Stats :</h3>
+## Reach Me
 
-###
+📧 [joshisankarsh45@gmail.com] · 💼 [https://www.linkedin.com/in/joshi-sankarsh-6a8981269/] 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pro-Joshi-grammer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+> Make it work. Make it useful. Then make it scale.
